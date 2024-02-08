@@ -1,2 +1,2 @@
 simple java code for creating window using java awt
-this is very good maja aa raha hai 
+this is very good maja aa raha hai aur ki haal hai
