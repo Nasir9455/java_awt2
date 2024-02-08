@@ -16,5 +16,6 @@ public class awtframe {
 
     public static void main(String[] args){
         awtframe obj1 = new awtframe();
+        System.out.println("Hello World");
     }
 }
